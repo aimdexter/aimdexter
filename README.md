@@ -11,7 +11,7 @@ I’m Aimade, a full-stack engineer, creative coder and self-proclaimed designer
 
 Want to know more about me? [Check out my portfolio.](https://aimdexter.dev/)
 
-## 📌 Pinned Repositories
+## 📌 Repositories
 
 <br>
 
