@@ -8,41 +8,6 @@ I’m Aimade, a full-stack engineer, creative coder and self-proclaimed designer
 
 Want to know more about me? [Check out my portfolio.](https://aimdexter.com/)
 
-## 📌 Repositories
-
-<a href="https://github.com/aimdexter/Nextjs-Starter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aimdexter&repo=Nextjs-Starter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/aimdexter/i2i-infogerance">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aimdexter&repo=i2i-infogerance&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/aimdexter/AMAROQ">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aimdexter&repo=AMAROQ&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/aimdexter/portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aimdexter&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/aimdexter/nft_landing">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aimdexter&repo=nft_landing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/aimdexter/vite-react-tailwind-starter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aimdexter&repo=vite-react-tailwind-starter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/aimdexter/Space-Travel">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aimdexter&repo=Space-Travel&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-
-
-<br>
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
