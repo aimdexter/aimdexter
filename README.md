@@ -1,81 +1,140 @@
-<!--![![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AnouarAimade)-->
-<!--![![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aimade-anouar-57bb791a7/)-->
-<!--![![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/aimdexter)-->
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="aimdexter — PhD Researcher at ENSMR · security / devops / software engineering" />
+</p>
 
-## &#x1f4c8; GitHub Stats
+<p align="center">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=protonmail&logoColor=39c5cf" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=39c5cf" /></a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Scholar-161b22?style=for-the-badge&logo=googlescholar&logoColor=39c5cf" /></a>
+  <a href="https://orcid.org/YOUR_ORCID"><img src="https://img.shields.io/badge/ORCID-161b22?style=for-the-badge&logo=orcid&logoColor=39c5cf" /></a>
+  <a href="https://app.hackthebox.com/profile/YOUR_HTB"><img src="https://img.shields.io/badge/HackTheBox-161b22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
+</p>
 
-<br>
+<br/>
 
-<a href="https://github.com/aimdexter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimdexter&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<a href="https://github.com/aimdexter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aimdexter&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+#### About
 
-<br>
-<br>
+I'm a doctoral researcher at **ENSMR** (École Nationale Supérieure des Mines de Rabat). My work sits where software, infrastructure and security meet. I build systems, deploy and operate them, and then try to break them.
 
-## 💼 Skills
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
-<br>
+Most of what's here is research code, infrastructure tooling, security labs and production web work.
 
-![](https://img.shields.io/badge/Design-figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)
-<br>
+</td>
+<td width="42%" valign="top">
 
-![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
-<br>
+#### Now
 
-![](https://img.shields.io/badge/Db-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Db-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Db-postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
-<br>
+```yaml
+research:  YOUR RESEARCH TOPIC
+security:  web app testing, hardening
+infra:     containers, CI/CD, IaC
+location:  Morocco
+languages: EN · FR · AR
+```
 
-![](https://img.shields.io/badge/Hosting-vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
-<!-- !![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)-->
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-<!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197) -->
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197) -->
+</td>
+</tr>
+</table>
 
+<br/>
 
-<details>
-<summary>More Skills</summary>
+### `01` &nbsp;Research
 
-<br>
+Doctoral research at ENSMR on **YOUR RESEARCH TOPIC**. Write one or two sentences on the problem and the approach.
 
-<!--![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)-->
+| Year | Title | Venue | |
+|:----:|-------|-------|:-:|
+| 2026 | *Paper title* | Conference / Journal | [pdf](#) |
+| 2025 | *Paper title* | Conference / Journal | [pdf](#) |
 
-<br>
+<br/>
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-<!--![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)-->
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-<!--![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)-->
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-<!--![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)-->
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-<!--![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)-->
-<!--![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)-->
+### `02` &nbsp;Security
 
-</details>
+Web application testing, network and traffic analysis, Linux hardening, CTFs.
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=2596CD" />
+  <img src="https://img.shields.io/badge/OWASP-161b22?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-161b22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=C11111" />
+</p>
+
+#### Latest write-ups
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+### `03` &nbsp;DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Terraform-161b22?style=for-the-badge&logo=terraform&logoColor=844FBA" />
+  <img src="https://img.shields.io/badge/Ansible-161b22?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-161b22?style=for-the-badge&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/GitLab_CI-161b22?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
+  <img src="https://img.shields.io/badge/Prometheus-161b22?style=for-the-badge&logo=prometheus&logoColor=E6522C" />
+  <img src="https://img.shields.io/badge/Grafana-161b22?style=for-the-badge&logo=grafana&logoColor=F46800" />
+  <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<br/>
+
+### `04` &nbsp;Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=44B78B" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Sass-161b22?style=for-the-badge&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
+
+<br/>
+
+### `05` &nbsp;Selected work
+
+| Project | What it does | Area |
+|---------|--------------|:----:|
+| [**REPO_1**](https://github.com/aimdexter/REPO_1) | One concrete line: the problem and the result | `security` |
+| [**REPO_2**](https://github.com/aimdexter/REPO_2) | One concrete line | `devops` |
+| [**REPO_3**](https://github.com/aimdexter/REPO_3) | One concrete line | `research` |
+| [**REPO_4**](https://github.com/aimdexter/REPO_4) | One concrete line | `dev` |
+
+<br/>
+
+### `06` &nbsp;Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimdexter/aimdexter/output-3d-contrib/profile-3d-contrib/profile-night-view.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/aimdexter/aimdexter/output-3d-contrib/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" />
+  </picture>
+</p>
+
+<p align="center">
+  <img width="49%" src="./metrics.languages.svg" alt="Most used languages" />
+  <img width="49%" src="./metrics.habits.svg" alt="Coding habits" />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub><code>PGP YOUR_FINGERPRINT</code> &nbsp;·&nbsp; responsible disclosure welcome</sub>
+</p>
