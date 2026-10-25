@@ -1,0 +1,29 @@
+name: 3D contribution calendar
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Publish SVGs to output-3d-contrib branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
