@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=protonmail&logoColor=39c5cf" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=39c5cf" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Scholar-161b22?style=for-the-badge&logo=googlescholar&logoColor=39c5cf" /></a>
+  <a href="mailto:draimade@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=protonmail&logoColor=39c5cf" /></a>
+  <a href="https://linkedin.com/in/aimade-anouar"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=39c5cf" /></a>
+  <!-- <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Scholar-161b22?style=for-the-badge&logo=googlescholar&logoColor=39c5cf" /></a>
   <a href="https://orcid.org/YOUR_ORCID"><img src="https://img.shields.io/badge/ORCID-161b22?style=for-the-badge&logo=orcid&logoColor=39c5cf" /></a>
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB"><img src="https://img.shields.io/badge/HackTheBox-161b22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
+  <a href="https://app.hackthebox.com/profile/YOUR_HTB"><img src="https://img.shields.io/badge/HackTheBox-161b22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>-->
 </p>
 
 <br/>
@@ -27,13 +27,13 @@ Most of what's here is research code, infrastructure tooling, security labs and 
 
 #### Now
 
-```yaml
+<!-- ```yaml
 research:  YOUR RESEARCH TOPIC
 security:  web app testing, hardening
 infra:     containers, CI/CD, IaC
 location:  Morocco
 languages: EN · FR · AR
-```
+```-->
 
 </td>
 </tr>
@@ -43,13 +43,13 @@ languages: EN · FR · AR
 
 ### `01` &nbsp;Research
 
-Doctoral research at ENSMR on **YOUR RESEARCH TOPIC**. Write one or two sentences on the problem and the approach.
+<!-- Doctoral research at ENSMR on **YOUR RESEARCH TOPIC**. Write one or two sentences on the problem and the approach.
 
 | Year | Title | Venue | |
 |:----:|-------|-------|:-:|
 | 2026 | *Paper title* | Conference / Journal | [pdf](#) |
 | 2025 | *Paper title* | Conference / Journal | [pdf](#) |
-
+-->
 <br/>
 
 ### `02` &nbsp;Security
