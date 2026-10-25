@@ -66,11 +66,6 @@ Web application testing, network and traffic analysis, Linux hardening, CTFs.
   <img src="https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=C11111" />
 </p>
 
-#### Latest write-ups
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <br/>
 
 ### `03` &nbsp;DevOps & Infrastructure
